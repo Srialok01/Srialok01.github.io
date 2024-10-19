@@ -878,7 +878,7 @@ pre {
 .underline {
   width: 100%;
   height: 4px;
-  background-image: linear-gradient(to right, rgb(255, 255, 255) 0%, rgb(244, 244, 125) 20%,rgb(238, 238, 36) 50%, #ffbd39 100%);
+  background-image: linear-gradient(to right, rgb(17, 52, 157) 0%, rgb(43, 26, 194) 20%,rgb(36, 184, 238) 50%, #154ed3 100%);
   margin-top: 5px;
   opacity: 50%; }
   .col-md-1 {
@@ -8175,7 +8175,7 @@ h1, h2, h3, h4, h5,
   font-weight: 400; }
 
 .text-primary {
-  color: #ffbd39 !important; }
+  color: #305cde !important; }
 
 .ftco-navbar-light {
   background: transparent !important;
@@ -8546,7 +8546,7 @@ h1, h2, h3, h4, h5,
           font-weight: 800; }
           .owl-carousel.home-slider .slider-item .slider-text h1 span {
             font-weight: 800;
-            color: #ffbd39; }
+            color: #3967ff; }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text h1 {
               color: #fff;
